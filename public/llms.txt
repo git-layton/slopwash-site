@@ -1,0 +1,26 @@
+# SlopWash
+
+> A native macOS utility that strips corporate jargon, AI slop, and vague language from any text — instantly.
+
+## What it does
+
+Highlight any text in any app (Slack, Chrome, Mail, Zoom). Press ⌘⇧W. SlopWash returns:
+- **TL;DR** — one blunt sentence summary
+- **TRUTH** — the actual intent behind the words, with jargon removed
+- **ACTIONS** — who needs to do what, stated plainly
+- **WASH** — a clean, direct rewrite you can copy and send
+
+## Key facts
+
+- One-time license. $14.99. No subscription.
+- All AI processing runs locally on your macOS chip. No cloud. No telemetry. No servers.
+- Works system-wide via a global hotkey — any app, any text field.
+- Built by Amplified Intelligence.
+
+## Who it's for
+
+Knowledge workers, managers, and anyone drowning in corporate-speak, AI-generated filler, or passive-aggressive Slack messages who need the blunt truth fast.
+
+## Purchase
+
+Available at: https://ampedintel.gumroad.com/l/slopwash
