@@ -394,8 +394,6 @@ export default function SlopWashLanding() {
       </footer>
 
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700;900&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
-
         :root {
           --font-sans: 'Space Grotesk', sans-serif;
           --font-mono: 'Space Mono', monospace;
